@@ -1,0 +1,10 @@
+venv/
+venv_test/
+__pycache__/
+*.pyc
+uploads/
+samples/cache/
+reports/*.md
+samples/session*.json
+samples/*_test.json
+*.pdf

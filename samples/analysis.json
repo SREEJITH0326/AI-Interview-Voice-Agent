@@ -1,0 +1,136 @@
+{
+  "candidate": {
+    "name": "Jane Doe",
+    "summary": "Junior ML Engineer",
+    "total_years_experience": 2.0,
+    "skills": [
+      "Python",
+      "Flask",
+      "PyTorch",
+      "scikit-learn",
+      "Docker",
+      "Git",
+      "MySQL"
+    ],
+    "roles": [
+      {
+        "title": "ML Engineer",
+        "company": "Acme Analytics",
+        "duration": "2023-2025",
+        "highlights": [
+          "Built a customer-support chatbot using OpenAI API and LangChain",
+          "Wrote REST APIs in Flask, deployed with Docker",
+          "Trained classification models with scikit-learn and PyTorch"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Resume Screener",
+        "description": "Python tool that ranks resumes using sentence embeddings and FAISS",
+        "technologies": [
+          "Python",
+          "FAISS"
+        ]
+      }
+    ],
+    "education": [
+      "B.Tech Computer Science"
+    ]
+  },
+  "job": {
+    "title": "AI Engineer - Applied ML Team",
+    "seniority": "mid",
+    "min_years_experience": 2.0,
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "LLMs",
+      "prompt engineering",
+      "RAG/vector databases",
+      "SQL",
+      "Docker"
+    ],
+    "nice_to_have_skills": [
+      "speech technologies (STT/TTS)",
+      "Kubernetes",
+      "MLOps",
+      "LangChain"
+    ],
+    "responsibilities": [
+      "design and ship LLM features",
+      "evaluate model quality",
+      "build APIs",
+      "collaborate with product"
+    ]
+  },
+  "gap_analysis": {
+    "assessments": [
+      {
+        "skill": "Python",
+        "status": "matched",
+        "evidence": "None"
+      },
+      {
+        "skill": "FastAPI",
+        "status": "weak_evidence",
+        "evidence": "None"
+      },
+      {
+        "skill": "LLMs",
+        "status": "matched",
+        "evidence": "Built a customer-support chatbot using OpenAI API and LangChain"
+      },
+      {
+        "skill": "prompt engineering",
+        "status": "weak_evidence",
+        "evidence": "None"
+      },
+      {
+        "skill": "RAG/vector databases",
+        "status": "matched",
+        "evidence": "None"
+      },
+      {
+        "skill": "SQL",
+        "status": "matched",
+        "evidence": "None"
+      },
+      {
+        "skill": "Docker",
+        "status": "matched",
+        "evidence": "Wrote REST APIs in Flask, deployed with Docker"
+      },
+      {
+        "skill": "speech technologies (STT/TTS)",
+        "status": "missing",
+        "evidence": "None"
+      },
+      {
+        "skill": "Kubernetes",
+        "status": "missing",
+        "evidence": "None"
+      },
+      {
+        "skill": "MLOps",
+        "status": "weak_evidence",
+        "evidence": "None"
+      },
+      {
+        "skill": "LangChain",
+        "status": "matched",
+        "evidence": "Built a customer-support chatbot using OpenAI API and LangChain"
+      }
+    ]
+  },
+  "probe_topics": [
+    "FastAPI",
+    "prompt engineering",
+    "Python",
+    "LLMs",
+    "RAG/vector databases",
+    "SQL",
+    "Docker",
+    "speech technologies (STT/TTS)"
+  ]
+}

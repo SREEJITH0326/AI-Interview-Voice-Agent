@@ -1,0 +1,5 @@
+AI Engineer - Applied ML Team
+We are looking for an AI Engineer with 2+ years of experience to build LLM-powered products.
+Must have: Python, FastAPI, experience with LLMs and prompt engineering, RAG / vector databases, SQL, Docker.
+Nice to have: speech technologies (STT/TTS), Kubernetes, MLOps, LangChain.
+Responsibilities: design and ship LLM features, evaluate model quality, build APIs, collaborate with product.

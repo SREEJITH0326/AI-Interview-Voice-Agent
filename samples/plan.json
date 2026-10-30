@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "category": "gap_probe",
+      "topic": "FastAPI",
+      "question": "How would you deploy a FastAPI app with Docker and manage its lifecycle?",
+      "ideal_points": [
+        "docker-compose",
+        "uvicorn workers"
+      ]
+    },
+    {
+      "category": "gap_probe",
+      "topic": "prompt engineering",
+      "question": "How do you optimize prompt quality for a conversational AI model?",
+      "ideal_points": [
+        "prompt engineering techniques",
+        "evaluating prompt performance"
+      ]
+    },
+    {
+      "category": "technical",
+      "topic": "Python",
+      "question": "What's your favorite Python library for data manipulation and analysis?",
+      "ideal_points": [
+        "pandas",
+        "numpy"
+      ]
+    },
+    {
+      "category": "technical",
+      "topic": "LLMs",
+      "question": "How does the OpenAI API handle out-of-vocabulary words in a conversational chatbot?",
+      "ideal_points": [
+        "handling OOV words",
+        "API documentation"
+      ]
+    },
+    {
+      "category": "project",
+      "topic": "Resume Screener",
+      "question": "What's the trade-off between using sentence embeddings and FAISS in your resume screener?",
+      "ideal_points": [
+        "embedding choice",
+        "performance impact"
+      ]
+    },
+    {
+      "category": "behavioral",
+      "topic": "collaborate with product",
+      "question": "Can you describe a time when you collaborated with a product team to inform a conversational AI feature?",
+      "ideal_points": [
+        "specific situation",
+        "measurable outcome"
+      ]
+    }
+  ]
+}

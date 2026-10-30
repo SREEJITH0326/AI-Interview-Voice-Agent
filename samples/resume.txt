@@ -1,0 +1,14 @@
+Jane Doe
+Junior ML Engineer, 2 years experience
+
+Experience
+ML Engineer, Acme Analytics (2023-2025)
+- Built a customer-support chatbot using OpenAI API and LangChain
+- Wrote REST APIs in Flask, deployed with Docker
+- Trained classification models with scikit-learn and PyTorch
+
+Projects
+Resume Screener: Python tool that ranks resumes using sentence embeddings and FAISS.
+
+Skills: Python, Flask, PyTorch, scikit-learn, Docker, Git, MySQL
+Education: B.Tech Computer Science, 2023
